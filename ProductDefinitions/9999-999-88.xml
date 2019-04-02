@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProductAssemblyUnit>
+  <LabelCaption>AXIS P3344-VE 12MM</LabelCaption>
+  <ProductName>AXIS P3344-VE</ProductName>
+  <ArticleNumber>9999-999-88</ArticleNumber>
+  <TestSequence>Template_Parallel.seq</TestSequence>
+  <ProductUnit include="9999-001-88"/>
+  <LabelLayout>dummy_layout_spider_test</LabelLayout>
+  <LabelLayout>dummy_layout_spider_test</LabelLayout>
+  <SerialNumberInterval>4</SerialNumberInterval>
+  <TestSockets>2</TestSockets>
+  <Origin>SWEDEN</Origin>
+  <Origin>THAILAND</Origin>
+  <Origin>HUNGARY</Origin>
+  <Origin>CZECH REPUBLIC</Origin>
+  <Origin>POLAND</Origin>
+  <Origin>SLOVAKIA</Origin>
+  <CustomParameters>
+    <CPNames>CustomParameter1</CPNames>
+    <CPValues>PAValue1</CPValues>
+    <CPNames>CustomParameter2</CPNames>
+    <CPValues>PAValue2</CPValues>
+    <CPNames>CustomParameter3</CPNames>
+    <CPValues>PAValue3</CPValues>
+  </CustomParameters>
+  <InstructionReference>1111</InstructionReference>
+</ProductAssemblyUnit>
+<!-- 
+
+Project: Sampo 
+Product Name: AXIS P3344 12mm SM
+Efini:  1.09 or later.
+
+rev		date		by	Note
+42210r1	2011-03-03	MH	Created
+
+
+-->

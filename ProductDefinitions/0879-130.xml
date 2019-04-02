@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+    <ProductName>ACS CORE TO UNIVERSAL 1 UPG.LIC</ProductName>
+	<LabelCaption>ACS CORE TO UNIVERSAL 1 UPGRADE LICENSE</LabelCaption>
+	<ArticleNumber>0879-130</ArticleNumber>
+	<EANCode>7331021052697</EANCode>
+	<Origin>SWEDEN</Origin>
+	<License>
+		<LabelLayout>67199</LabelLayout>
+		<LabelLayout>67198</LabelLayout>
+		<PrefixSerial>SW115</PrefixSerial>
+	</License>
+</SalesUnit>
+<!--
+160302 BS intro
+-->

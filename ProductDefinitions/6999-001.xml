@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+	<ArticleNumber>6999-001</ArticleNumber>
+	<PackType>Default</PackType>
+	<IsNMIAProduct>true</IsNMIAProduct>
+	<ProductUnit include="6999-001-"/>
+</SalesUnit>

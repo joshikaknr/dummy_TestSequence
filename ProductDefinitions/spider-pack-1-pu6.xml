@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+	<ProductName>SALES UNIT SPIDER 6 1-PACK</ProductName>
+	<LabelCaption>AXIS SPIDER 6 1-PACK</LabelCaption>
+	<ArticleNumber>spider-pack-1-pu6</ArticleNumber>
+	<EANCode>733102101084</EANCode>
+	<InstructionReference>666</InstructionReference>
+	<CartonLayout>dummy_layout_spider_pack</CartonLayout>
+	<ProductUnit include="spider-pu-6.xml" vmask="1111"/>
+</SalesUnit>

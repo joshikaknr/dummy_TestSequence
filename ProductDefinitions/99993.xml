@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssemblyUnit>
+    <ArticleNumber>99993</ArticleNumber>
+    <ProductName>AXIS Demo UA</ProductName>
+    <TestStub>P1364_kimage_20151106</TestStub>
+    <TestSequence>Template_Parallel_Simple_Demo.seq</TestSequence>
+    <ScanMode>NoScanSingleUnit</ScanMode>
+</AssemblyUnit>

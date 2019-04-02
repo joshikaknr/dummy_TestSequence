@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+    <ProductName>ACS 32 CORE DEVICE LICENSE</ProductName>
+	<LabelCaption>ACS 32 CORE DEVICE LICENSE</LabelCaption>
+	<ArticleNumber>0879-080</ArticleNumber>
+	<EANCode>7331021052642</EANCode>
+	<Origin>SWEDEN</Origin>
+	<License>
+		<LabelLayout>67199</LabelLayout>
+		<LabelLayout>67198</LabelLayout>
+		<PrefixSerial>SW110</PrefixSerial>
+	</License>
+</SalesUnit>
+<!--
+160302 BS intro
+-->

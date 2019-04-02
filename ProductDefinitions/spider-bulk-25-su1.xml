@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+	<ProductName>SALES UNIT SPIDER 1 BULK-25 SU1</ProductName>
+	<LabelCaption>AXIS SPIDER 1 BULK-25</LabelCaption>
+	<ArticleNumber>spider-bulk-25-su1</ArticleNumber>
+	<EANCode>733102101084</EANCode>
+	<CartonLayout>dummy_layout_spider_pack</CartonLayout>
+	<KitLayout>dummy_layout_spider_pack</KitLayout>
+	<SalesUnit include="spider-pack-1-pu1.xml" quantity="25" softwarerevision="no" datamatrix="no"/>
+</SalesUnit>

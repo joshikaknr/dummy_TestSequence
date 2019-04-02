@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+    <ProductName>ACS 4 TO UNIVERSAL 5 UPG.LIC</ProductName>
+	<LabelCaption>ACS 4 TO UNIVERSAL 5 UPGRADE LICENSE</LabelCaption>
+	<ArticleNumber>0879-180</ArticleNumber>
+	<EANCode>7331021052741</EANCode>
+	<Origin>SWEDEN</Origin>
+	<License>
+		<LabelLayout>67199</LabelLayout>
+		<LabelLayout>67198</LabelLayout>
+		<PrefixSerial>SW120</PrefixSerial>
+	</License>
+</SalesUnit>
+<!--
+160302 BS intro
+-->

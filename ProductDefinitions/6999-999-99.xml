@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProductAssemblyUnit>
+	<ArticleNumber>6999-999-99</ArticleNumber>
+	<TestSequence>Template.seq</TestSequence>
+	<IsNMIAProduct>true</IsNMIAProduct>
+	<ProductUnit include="6999-001-"/>
+</ProductAssemblyUnit>

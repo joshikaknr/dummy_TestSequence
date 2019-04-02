@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+    <ProductName>ACS 1 CORE DEVICE LICENSE PLAIN</ProductName>
+	<LabelCaption>ACS 1 CORE DEVICE LICENSE PLAIN</LabelCaption>
+	<ArticleNumber>0879-210</ArticleNumber>
+	<EANCode>7331021055513</EANCode>
+	<Origin>SWEDEN</Origin>
+	<License>
+		<LabelLayout>67199</LabelLayout>
+		<PrefixSerial>SW123</PrefixSerial>
+	</License>
+</SalesUnit>
+<!--
+rev	    date		by	Note
+67442r1	20160428	TW	Created
+
+-->

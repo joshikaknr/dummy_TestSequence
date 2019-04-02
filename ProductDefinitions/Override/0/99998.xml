@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssemblyUnit>
+  <ArticleNumber>99998</ArticleNumber>
+  <TestStub>P3343_5_07_beta6_2_prodtest.bin</TestStub>
+  <TestSequence>Template.seq</TestSequence>
+  <LabelCaption>The correct name</LabelCaption>
+  <ProductName>The correct name</ProductName>
+  <LabelLayout Copies="1">34869</LabelLayout>
+  <BootBlockParameters>
+    <BBNames>HWID</BBNames>
+    <BBValues>Test</BBValues>
+    <BBNames>RSLOCKED</BBNames>
+    <BBValues>Test</BBValues>
+    <BBNames>DCIRIS</BBNames>
+    <BBValues>YES</BBValues>
+    <BBNames>DAYNIGHT</BBNames>
+    <BBValues>YES</BBValues>
+    <BBNames>OPTICS</BBNames>
+    <BBValues>cbc_tgp2_4z2512mr_e111t51</BBValues>
+    <BBNames>RESOLUTIONSET</BBNames>
+    <BBValues>Test</BBValues>
+    <BBNames>ProdFullName</BBNames>
+    <BBValues>AXIS P3344 Fixed Dome Network Camera</BBValues>
+    <BBNames>ProdShortName</BBNames>
+    <BBValues>AXIS P3344</BBValues>
+    <BBNames>ProdNr</BBNames>
+    <BBValues>P3344</BBValues>
+    <BBNames>VideoType</BBNames>
+    <BBValues>Test</BBValues>
+    <BBNames>BrandName</BBNames>
+    <BBValues>Axis</BBValues>
+  </BootBlockParameters>
+  <CustomParameters>
+    <CPNames>CustomParameter1</CPNames>
+    <CPValues>UAValue1</CPValues>
+    <CPNames>CustomParameter2</CPNames>
+    <CPValues>UAValue2</CPValues>
+  </CustomParameters>
+  <InstructionReference>9999</InstructionReference>
+</AssemblyUnit>
+<!-- 
+Project: Sampo
+Product Name: AXIS P3344 12mm E6
+Efini: 1.09 or later.
+
+rev		date		by	Note
+41671r1		2010-12-28 	MH  	Created
+
+-->

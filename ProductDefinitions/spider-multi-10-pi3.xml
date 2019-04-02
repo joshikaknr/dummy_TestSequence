@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+	<ProductName>SALES UNIT SPIDER 3 MULTI-10</ProductName>
+	<LabelCaption>AXIS SPIDER 3 MULTI-10</LabelCaption>
+	<ArticleNumber>spider-multi-10-pi3</ArticleNumber>
+	<EANCode>733102101084</EANCode>
+	<CartonLayout>dummy_layout_spider_pack</CartonLayout>
+	<PackType>Multipack</PackType>
+	<MultipackSize>10</MultipackSize>
+	<MultipackLayout>dummy_layout_spider_pack</MultipackLayout>
+	<PackItem include="spider-pi-3.xml" scanserialnumber="no"/>
+</SalesUnit>

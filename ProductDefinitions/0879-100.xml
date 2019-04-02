@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+    <ProductName>ACS 4 UNIVERSAL DEVICE LICENSE</ProductName>
+	<LabelCaption>ACS 4 UNIVERSAL DEVICE LICENSE</LabelCaption>
+	<ArticleNumber>0879-100</ArticleNumber>
+	<EANCode>7331021052666</EANCode>
+	<Origin>SWEDEN</Origin>
+	<License>
+		<LabelLayout>67199</LabelLayout>
+		<LabelLayout>67198</LabelLayout>
+		<PrefixSerial>SW112</PrefixSerial>
+	</License>
+</SalesUnit>
+<!--
+160302 BS intro
+-->

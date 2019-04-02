@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+	<ProductName>SALES UNIT SPIDER KIT 2SU1 2PU4 1PU2</ProductName>
+	<LabelCaption>AXIS SPIDER KIT 2SU1 2PU4 1PU2</LabelCaption>
+	<ArticleNumber>spider-kit-2su1-2pu4-1pu2-verifyorigin</ArticleNumber>
+	<EANCode>7331021024236</EANCode>
+	<Origin>COLOMBIA</Origin>
+	<Origin>BRAZIL</Origin>
+	<KitLayout ArticleNumber1="spider-pack-1-pu1" ArticleNumber2="spider-pu-4" ArticleNumber3="spider-pu-2">dummy_layout_spider_pack</KitLayout>
+	<ProductUnit include="spider-pu-4.xml" quantity="2" vmask="1110" verifyorigin="no"/>
+	<ProductUnit include="spider-pu-2.xml" quantity="1" datamatrix="no"/>
+	<SalesUnit include="spider-pack-1-pu1.xml" quantity="2" datamatrix="no" softwarerevision="no"/>
+</SalesUnit>

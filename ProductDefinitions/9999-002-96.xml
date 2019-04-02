@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  THIS XML FILE IS FOR TESTING ONLY
+  
+  One of the article numbers specified in the file does not
+  match the filename, on purpose, to test that the
+  parser will detect the error.
+-->
+<ProductDefinition>
+	<Tests>
+		<Test no="1">
+			<Name>FirstStage</Name>
+			<Mandatory>True</Mandatory>
+		</Test>
+		<Test no="2">
+			<Name>BurnIn</Name>
+			<Mandatory>False</Mandatory>
+		</Test>
+		<Test no="3">
+			<Name>Programming</Name>
+			<Mandatory>True</Mandatory>
+		</Test>
+	</Tests>
+	<ProductUnit test="FirstStage">
+	  <LabelCaption>AXIS P3344 6MM</LabelCaption>
+	  <ArticleNumber>9999-002-96</ArticleNumber>
+	  <TestSequence>Template.seq</TestSequence>
+	  <AssemblyUnit include="99999.xml"/>
+	  <LabelLayout Copies="1">dummy_layout_spider_test</LabelLayout>
+	  <BootBlockParameters>
+	    <BBNames>HWID</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>RSLOCKED</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>DCIRIS</BBNames>
+	    <BBValues>YES</BBValues>
+	    <BBNames>DAYNIGHT</BBNames>
+	    <BBValues>YES</BBValues>
+	    <BBNames>OPTICS</BBNames>
+	    <BBValues>cbc_tgp2_4z2512mr_e111t51</BBValues>
+	    <BBNames>RESOLUTIONSET</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>ProdFullName</BBNames>
+	    <BBValues>AXIS P3344 Fixed Dome Network Camera</BBValues>
+	    <BBNames>ProdShortName</BBNames>
+	    <BBValues>AXIS P3344</BBValues>
+	    <BBNames>ProdNr</BBNames>
+	    <BBValues>P3344</BBValues>
+	    <BBNames>VideoType</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>BrandName</BBNames>
+	    <BBValues>Axis</BBValues>
+	  </BootBlockParameters>
+	  <CustomParameters>
+	    <CPNames>CustomParameter1</CPNames>
+	    <CPValues>PUValue1</CPValues>
+	    <CPNames>CustomParameter2</CPNames>
+	    <CPValues>PUValue2</CPValues>
+	  </CustomParameters>
+	  <BaseArticles>
+	    <ProductPartNo>99999</ProductPartNo>
+	  </BaseArticles>
+	  <InstructionReference>2222</InstructionReference>
+	</ProductUnit>
+	<ProductUnit test="BurnIn">
+	  <LabelCaption>AXIS P3344 6MM</LabelCaption>
+	  <ArticleNumber>9999-002-96</ArticleNumber>
+	  <TestSequence>Template.seq</TestSequence>
+	  <AssemblyUnit include="99999.xml"/>
+	  <LabelLayout Copies="1">dummy_layout_spider_test</LabelLayout>
+	  <BootBlockParameters>
+	    <BBNames>HWID</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>RSLOCKED</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>DCIRIS</BBNames>
+	    <BBValues>YES</BBValues>
+	    <BBNames>DAYNIGHT</BBNames>
+	    <BBValues>YES</BBValues>
+	    <BBNames>OPTICS</BBNames>
+	    <BBValues>cbc_tgp2_4z2512mr_e111t51</BBValues>
+	    <BBNames>RESOLUTIONSET</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>ProdFullName</BBNames>
+	    <BBValues>AXIS P3344 Fixed Dome Network Camera</BBValues>
+	    <BBNames>ProdShortName</BBNames>
+	    <BBValues>AXIS P3344</BBValues>
+	    <BBNames>ProdNr</BBNames>
+	    <BBValues>P3344</BBValues>
+	    <BBNames>VideoType</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>BrandName</BBNames>
+	    <BBValues>Axis</BBValues>
+	  </BootBlockParameters>
+	  <CustomParameters>
+	    <CPNames>CustomParameter1</CPNames>
+	    <CPValues>PUValue1</CPValues>
+	    <CPNames>CustomParameter2</CPNames>
+	    <CPValues>PUValue2</CPValues>
+	  </CustomParameters>
+	  <BaseArticles>
+	    <ProductPartNo>99999</ProductPartNo>
+	  </BaseArticles>
+	  <InstructionReference>2222</InstructionReference>
+	</ProductUnit>
+	<ProductUnit test="Programming">
+	  <LabelCaption>AXIS P3344 6MM</LabelCaption>
+	  <ArticleNumber>9999-002-97</ArticleNumber>
+	  <TestSequence>Template.seq</TestSequence>
+	  <AssemblyUnit include="99999.xml"/>
+	  <LabelLayout Copies="1">dummy_layout_spider_test</LabelLayout>
+	  <BootBlockParameters>
+	    <BBNames>HWID</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>RSLOCKED</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>DCIRIS</BBNames>
+	    <BBValues>YES</BBValues>
+	    <BBNames>DAYNIGHT</BBNames>
+	    <BBValues>YES</BBValues>
+	    <BBNames>OPTICS</BBNames>
+	    <BBValues>cbc_tgp2_4z2512mr_e111t51</BBValues>
+	    <BBNames>RESOLUTIONSET</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>ProdFullName</BBNames>
+	    <BBValues>AXIS P3344 Fixed Dome Network Camera</BBValues>
+	    <BBNames>ProdShortName</BBNames>
+	    <BBValues>AXIS P3344</BBValues>
+	    <BBNames>ProdNr</BBNames>
+	    <BBValues>P3344</BBValues>
+	    <BBNames>VideoType</BBNames>
+	    <BBValues>Test</BBValues>
+	    <BBNames>BrandName</BBNames>
+	    <BBValues>Axis</BBValues>
+	  </BootBlockParameters>
+	  <CustomParameters>
+	    <CPNames>CustomParameter1</CPNames>
+	    <CPValues>PUValue1</CPValues>
+	    <CPNames>CustomParameter2</CPNames>
+	    <CPValues>PUValue2</CPValues>
+	  </CustomParameters>
+	  <BaseArticles>
+	    <ProductPartNo>99999</ProductPartNo>
+	  </BaseArticles>
+	  <InstructionReference>2222</InstructionReference>
+	</ProductUnit>
+</ProductDefinition>
+<!-- 
+
+Project: Sampo 
+Product Name: AXIS P3344 6mm
+Efini: 1.09 or later.
+
+rev		date		by		Note
+41670r1		2011-06-15	TW		Created
+
+-->

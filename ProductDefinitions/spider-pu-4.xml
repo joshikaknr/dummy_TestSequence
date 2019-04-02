@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductUnit>
+	<ProductName>PROD UNIT SPIDER 4</ProductName>
+	<LabelLayout Copies="1">dummy_layout_spider_test</LabelLayout>
+	<LabelCaption>AXIS SPIDER 4</LabelCaption>
+	<ArticleNumber>spider-pu-4</ArticleNumber>
+	<Origin>BOTSWANA</Origin>
+	<Origin>MADAGASCAR</Origin>
+	<TestSequence>template.seq</TestSequence>
+	<BootBlockParameters>
+		<BBNames>HWID</BBNames>
+		<BBValues>987.6</BBValues>
+		<BBNames>BRAND</BBNames>
+		<BBValues>AXIS</BBValues>
+	</BootBlockParameters>
+	<Firmware>
+		<PartNumber>12345</PartNumber>
+		<Revision>5.25</Revision>
+	</Firmware>
+	<AssemblyUnit include="spider-ua-1.xml"/>
+</ProductUnit>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssemblyUnit>
+  <ArticleNumber>99984</ArticleNumber>
+  <ProductName>Dummy Parallel Product</ProductName>
+  <TestStub>0.0</TestStub>
+  <TestSequence>Template_Parallel_Simple.seq</TestSequence>  
+  <TestSockets>5</TestSockets>
+  <ScanMode>NoScanSingleUnit</ScanMode>
+</AssemblyUnit>

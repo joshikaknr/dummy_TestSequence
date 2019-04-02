@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProductDefinition>
+	<Tests>
+		<Test no="1">
+			<Name>1</Name>
+			<Mandatory>True</Mandatory>
+		</Test>
+		<Test no="2">
+			<Name>2</Name>
+			<Mandatory>False</Mandatory>
+		</Test>
+		<Test no="3">
+			<Name>3</Name>
+			<Mandatory>True</Mandatory>
+		</Test>
+	</Tests>
+	<ProductAssemblyUnit test="1">
+		<ProductName>AXIS Test product PA</ProductName>
+		<ArticleNumber>9999-999-96</ArticleNumber>
+		<TestSequence>Template.seq</TestSequence>
+		<ProductUnit include="9999-001-"/>
+		<CableID>0303</CableID>
+		<CustomParameters>
+			<CPNames>CustomParameter1</CPNames>
+			<CPValues>PAValue1</CPValues>
+			<CPNames>CustomParameter2</CPNames>
+			<CPValues>PAValue2</CPValues>
+			<CPNames>CustomParameter3</CPNames>
+			<CPValues>PAValue3</CPValues>
+		</CustomParameters>
+		<InstructionReference>1111</InstructionReference>
+	</ProductAssemblyUnit>
+	<ProductAssemblyUnit test="2">
+		<ProductName>AXIS Test product PA</ProductName>
+		<ArticleNumber>9999-999-96</ArticleNumber>
+		<TestSequence>Template.seq</TestSequence>
+		<ProductUnit include="9999-001-"/>
+		<CableID>0303</CableID>
+		<CustomParameters>
+			<CPNames>CustomParameter1</CPNames>
+			<CPValues>PAValue1</CPValues>
+			<CPNames>CustomParameter2</CPNames>
+			<CPValues>PAValue2</CPValues>
+			<CPNames>CustomParameter3</CPNames>
+			<CPValues>PAValue3</CPValues>
+		</CustomParameters>
+		<InstructionReference>1111</InstructionReference>
+	</ProductAssemblyUnit>
+	<ProductAssemblyUnit test="3">
+		<ProductName>AXIS Test product PA</ProductName>
+		<ArticleNumber>9999-999-96</ArticleNumber>
+		<TestSequence>Template.seq</TestSequence>
+		<ProductUnit include="9999-001-"/>
+		<CableID>0303</CableID>
+		<CustomParameters>
+			<CPNames>CustomParameter1</CPNames>
+			<CPValues>PAValue1</CPValues>
+			<CPNames>CustomParameter2</CPNames>
+			<CPValues>PAValue2</CPValues>
+			<CPNames>CustomParameter3</CPNames>
+			<CPValues>PAValue3</CPValues>
+		</CustomParameters>
+		<InstructionReference>1111</InstructionReference>
+	</ProductAssemblyUnit>
+</ProductDefinition>

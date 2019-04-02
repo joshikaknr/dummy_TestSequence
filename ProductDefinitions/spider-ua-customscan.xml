@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssemblyUnit>
+	<ProductName>ASSEMBLY UNIT SPIDER CUSTOM SCANNING</ProductName>
+	<ArticleNumber>spider-ua-customscan</ArticleNumber>
+	<TestSequence>Template_OperatorLess.seq</TestSequence>
+	<TestStub>0.0</TestStub>
+	<ScanMode>NoScanSingleUnit</ScanMode>
+	<LabelCaption>AXIS SPIDER CUSTOM SCANNING</LabelCaption>
+	<LabelLayout Copies="1">dummy_layout_spider_pack</LabelLayout>
+</AssemblyUnit>

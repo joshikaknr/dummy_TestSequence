@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesUnit>
+	<ProductName>SALES UNIT SPIDER 1 MULTI-10</ProductName>
+	<LabelCaption>AXIS SPIDER 1 MULTI-10</LabelCaption>
+	<ArticleNumber>spider-multi-10-pu1</ArticleNumber>
+	<EANCode>733102101084</EANCode>
+	<CartonLayout>dummy_layout_spider_pack</CartonLayout>
+	<PackType>Multipack</PackType>
+	<MultipackSize>10</MultipackSize>
+	<MultipackLayout>dummy_layout_spider_pack</MultipackLayout>
+	<ProductUnit include="spider-pu-1.xml" vmask="1111"/>
+</SalesUnit>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssemblyUnit>
+  <ArticleNumber>99994</ArticleNumber>
+  <ProductName>AXIS Test UA</ProductName>
+  <TestStub>0.0</TestStub>
+  <TestSequence>Test.seq</TestSequence>
+  <LabelLayout>dummy_layout_spider_pack</LabelLayout>
+</AssemblyUnit>

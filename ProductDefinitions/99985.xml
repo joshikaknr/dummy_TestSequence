@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProductDefinition>
+
+	<Tests>
+	
+		<Test no="1">
+			<Name>One</Name>
+			<Mandatory>False</Mandatory>
+		</Test>
+		
+		<Test no="2">
+			<Name>Two</Name>
+			<Mandatory>True</Mandatory>
+		</Test>
+		
+		<Test no="3">
+			<Name>Three</Name>
+			<Mandatory>True</Mandatory>
+		</Test>
+		
+		<Test no="4">
+			<Name>Four</Name>
+			<Mandatory>True</Mandatory>
+		</Test>
+		
+	</Tests>
+	
+	<AssemblyUnit test="One">
+	  <ArticleNumber>99985</ArticleNumber>
+	  <TestStub>0.0</TestStub>
+	  <TestSequence>Template_Parallel.seq</TestSequence>
+  <TestSockets>2</TestSockets>
+	</AssemblyUnit>
+	
+	<AssemblyUnit test="Two">
+	  <ArticleNumber>99985</ArticleNumber>
+	  <TestStub>0.0</TestStub>
+	  <TestSequence>Template_Parallel.seq</TestSequence>
+  <TestSockets>2</TestSockets>
+	</AssemblyUnit>
+	
+	<AssemblyUnit test="Three">
+	  <ArticleNumber>99985</ArticleNumber>
+	  <TestStub>0.0</TestStub>
+	  <TestSequence>Template_Parallel.seq</TestSequence>
+  <TestSockets>2</TestSockets>
+	</AssemblyUnit>
+	
+	<AssemblyUnit test="Four">
+	  <ArticleNumber>99985</ArticleNumber>
+	  <TestStub>0.0</TestStub>
+	  <TestSequence>Template_Parallel.seq</TestSequence>
+  <TestSockets>2</TestSockets>
+	</AssemblyUnit>
+	
+</ProductDefinition>

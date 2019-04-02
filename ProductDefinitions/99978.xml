@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssemblyUnit>
+	<ArticleNumber>99978</ArticleNumber>
+	<ProductName>AXIS TEQ Test product UA</ProductName>
+	<TestStub>0.0</TestStub>
+	<TestSequence>Template_Parallel_Simple.seq</TestSequence>
+	<TestSockets>3</TestSockets>
+	<TestEquipment>
+		<TestEquipment>
+			<!-- TEQ:00001,12345,r2 TEQ:00002,12345,r2 -->
+			<PartNumber>12345</PartNumber>
+			<Quantity>2</Quantity>
+			<LowestRevision>2</LowestRevision>
+			<PictureFile>TEQ/image03.jpg</PictureFile>
+			<Description>A Cool TEQ</Description>
+		</TestEquipment>
+		<TestEquipment>
+			<!-- TEQ:00003,54321,r1 -->
+			<PartNumber>54321</PartNumber>
+			<Quantity>1</Quantity>
+			<LowestRevision>1</LowestRevision>
+			<PictureFile>TEQ\image04.jpg</PictureFile>
+			<Description>Another Cool TEQ</Description>
+		</TestEquipment>
+	</TestEquipment>
+</AssemblyUnit>

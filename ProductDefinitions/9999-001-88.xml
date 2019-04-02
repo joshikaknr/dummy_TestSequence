@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProductUnit>
+  <LabelCaption>AXIS P3344 6MM</LabelCaption>
+  <ArticleNumber>9999-001-88</ArticleNumber>
+  <ProductName>AXIS P3344</ProductName>
+  <Firmware>
+    <Enabled>False</Enabled>
+  </Firmware>
+  <TestSequence>Template_Parallel.seq</TestSequence>
+  <AssemblyUnit include="99989.xml"/>
+  <LabelLayout Copies="1">dummy_layout_spider_test</LabelLayout>
+  <Origin>SWEDEN</Origin>
+  <Origin>THAILAND</Origin>
+  <Origin>HUNGARY</Origin>
+  <Origin>CZECH REPUBLIC</Origin>
+  <Origin>POLAND</Origin>
+  <Origin>SLOVAKIA</Origin>
+  <SerialNumberInterval>4</SerialNumberInterval>
+  <TestSockets>2</TestSockets>
+  <BootBlockParameters>
+    <BBNames>HWID</BBNames>
+    <BBValues>Test</BBValues>
+    <BBNames>RSLOCKED</BBNames>
+    <BBValues>Test</BBValues>
+    <BBNames>DCIRIS</BBNames>
+    <BBValues>YES</BBValues>
+    <BBNames>DAYNIGHT</BBNames>
+    <BBValues>YES</BBValues>
+    <BBNames>OPTICS</BBNames>
+    <BBValues>cbc_tgp2_4z2512mr_e111t51</BBValues>
+    <BBNames>RESOLUTIONSET</BBNames>
+    <BBValues>Test</BBValues>
+    <BBNames>ProdFullName</BBNames>
+    <BBValues>AXIS P3344 Fixed Dome Network Camera</BBValues>
+    <BBNames>ProdShortName</BBNames>
+    <BBValues>AXIS P3344</BBValues>
+    <BBNames>ProdNr</BBNames>
+    <BBValues>P3344</BBValues>
+    <BBNames>VideoType</BBNames>
+    <BBValues>Test</BBValues>
+    <BBNames>BrandName</BBNames>
+    <BBValues>Axis</BBValues>
+  </BootBlockParameters>
+  <CustomParameters>
+    <CPNames>CustomParameter1</CPNames>
+    <CPValues>PUValue1</CPValues>
+    <CPNames>CustomParameter2</CPNames>
+    <CPValues>PUValue2</CPValues>
+  </CustomParameters>
+  <InstructionReference>2222</InstructionReference>
+</ProductUnit>
+<!-- 
+
+Project: Sampo 
+Product Name: AXIS P3344 6mm
+Efini: 1.09 or later.
+
+rev		date		by		Note
+41670r1		2011-06-15	TW		Created
+
+-->

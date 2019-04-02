@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductUnit>
+	<ProductName>PROD UNIT SPIDER 5</ProductName>
+	<LabelLayout Copies="1">dummy_layout_spider_test</LabelLayout>
+	<LabelCaption>AXIS SPIDER 5</LabelCaption>
+	<ArticleNumber>spider-pu-5</ArticleNumber>
+	<Origin>DJIBOUTI</Origin>
+	<Origin>BURKINA FASO</Origin>
+	<TestSequence>template.seq</TestSequence>
+	<Firmware>
+		<Enabled>False</Enabled>
+	</Firmware>
+	<AssemblyUnit include="spider-ua-1.xml"/>
+</ProductUnit>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductDefinition>
+
+	<Tests>
+	
+		<Test no="1">
+			<Name>One</Name>
+			<Mandatory>False</Mandatory>
+		</Test>
+		
+		<Test no="2">
+			<Name>Two</Name>
+			<Mandatory>True</Mandatory>
+		</Test>
+		
+	</Tests>
+
+	<ProductUnit test="One">
+		<ProductName>PROD UNIT SPIDER 6</ProductName>
+		<ArticleNumber>spider-pu-6</ArticleNumber>
+		<TestSequence>template.seq</TestSequence>
+		<Firmware>
+			<Enabled>False</Enabled>
+		</Firmware>
+		<AssemblyUnit include="spider-ua-1.xml"/>
+	</ProductUnit>
+
+	<ProductUnit test="Two">
+		<ProductName>PROD UNIT SPIDER 6</ProductName>
+		<LabelLayout Copies="1">dummy_layout_spider_pack</LabelLayout>
+		<LabelCaption>AXIS SPIDER 6</LabelCaption>
+		<ArticleNumber>spider-pu-6</ArticleNumber>
+		<Origin>SWAZILAND</Origin>
+		<Origin>TOGO</Origin>
+		<TestSequence>template.seq</TestSequence>
+		<Firmware include="99.xml"/>
+		<AssemblyUnit include="spider-ua-1.xml"/>
+	</ProductUnit>
+	
+</ProductDefinition>
